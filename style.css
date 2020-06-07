@@ -23,13 +23,13 @@ body {
 }
 
 .timezone {
-  margin-top: 10vh;
+  margin-top: 7vh;
   font-size: 20px;
   text-align: center;
 }
 
 #icon {
-  margin-top: 10vh;
+  margin-top: 6vh;
 }
 
 .temperature {
@@ -48,7 +48,7 @@ body {
 .degree-section {
   display: flex;
   align-items: center;
-  margin-top: 20vh;
+  margin-top: 5vh;
   cursor: pointer;
 }
 
